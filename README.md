@@ -1,5 +1,3 @@
-# hso-test
-
 # Setup
 
 1. Open the terminal and cd in to your local sites folder.
@@ -22,6 +20,8 @@ If you look in your database you will now have 5 tables:
 - products
 - stages
 - order_product <- pivot table
+
+# How to
 
 This is all the api calls available.
 
