@@ -12,9 +12,9 @@
 
 5. Run the following commands
 
-composer install
-php artisan migrate
-php artisan db:seed
+- composer install
+- php artisan migrate
+- php artisan db:seed
 
 If you look in your database you will now have 5 tables:
 - accounts
