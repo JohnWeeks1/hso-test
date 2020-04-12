@@ -23,7 +23,7 @@ If you look in your database you will now have 5 tables:
 - stages
 - order_product <- pivot table
 
-This is all the requests/responces available.
+This is all the api calls available.
 
 ![Screenshot 2020-04-12 at 19 13 01](https://user-images.githubusercontent.com/17055567/79076401-bee71800-7cf1-11ea-9f1a-dc8166ca13b3.png)
 
